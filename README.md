@@ -1,8 +1,8 @@
 # Maggie-s-Pub
-Renovating an outdated website
 
 <!DOCTYPE html>
 <html>
+  <h1>Maggie's Pub</h1>
 <head>
   <meta http-equiv="Content Type" content="application/xhtml+xml; charset=utf-8">
   <meta name="DESCRIPTION" content="Great food, Great Beers, Banquets, Parties :: Maggie's Pub has several large screen television sets, 
