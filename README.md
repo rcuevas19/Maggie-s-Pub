@@ -6,9 +6,11 @@
 <head>
   <meta http-equiv="Content Type" content="application/xhtml+xml; charset=utf-8">
   <meta name="DESCRIPTION" content="Great food, Great Beers, Banquets, Parties :: Maggie's Pub has several large screen television sets, 
-  Friday night specials, and all-night parties!"
+  Friday night specials, and all-night parties!">
   <meta name="KEYWORDS" content="British, Pub, Maggie's Pub, British Beers">
   <meta name="robots" content="index, follow">
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
 
   <link href="assests/css/style.css" rel="stylesheet" type="text/css">
   
