@@ -31,6 +31,7 @@ Renovating an outdated website
   </ul>
   </div>
   <p>
-  img src="assets/images/banner-social-media.jpg" width="860" height="113" border="0" align="center">
+  <img src="assets/images/banner-social-media.jpg" width="860" height="113" border="0" align="center">
+  </p>
 </body>
 </html>
